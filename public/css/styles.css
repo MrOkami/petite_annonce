@@ -1,0 +1,69 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+}
+
+/***********************NAVBAR*********************************/
+.navbar{
+    background-color: #00a379;
+    margin-bottom: 200px;
+}
+
+/******************** PAGINATION ************************/
+.pagination{
+    padding-top: 30px;
+
+}
+/********** inscription **********************/
+.inscrip{
+    padding-top: 100px;
+}
+h1.inscrip{
+    color: #7adcc3;
+    padding-bottom: 30px;
+}
+
+/************** annonce ***************************/
+#annonceRe{
+    margin-top: 100px;
+}
+#notAnnonce{
+    margin-top: 100px;
+    padding: 20px 0 20px 0;
+    background-color: chocolate;
+}
+#details{
+    margin-top: 100px;
+}
+#annonce-card{
+padding-top: 20px;
+}
+/****************** DAShBORD USERS ********************************/
+.UserConnec{
+    margin-top: 200px;
+}
+h1.UserConnec{
+    color: #c87f0a;
+    text-align: center;
+    padding-bottom: 50px;
+}
+#user-dashboard{
+    padding: 10px;
+
+}
+
+#contactV{
+    margin-top: 100px;
+}
+.card-img-top{
+    padding: 20px;
+    border-radius: 10px;
+}
+/************************DASHBORD ADMIN******************/
+#admin-dashboard{
+    padding: 10px;
+}
